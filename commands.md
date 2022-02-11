@@ -1,6 +1,6 @@
 ### encrypt
 ```
-echo "secret text" | gpg --encrypt --armor -r upkar@pm.me
+echo "secret text" | gpg2 --encrypt --armor -r upkar@pm.me
 ```
 
 ### decrypt
@@ -10,5 +10,5 @@ echo "-----BEGIN PGP MESSAGE-----helloworld-----END PGP MESSAGE-----" | gpg2 --d
 
 ### import my public key
 ```
-gpg --import name_of_pub_key_file
+gpg2 --import name_of_pub_key_file
 ```
