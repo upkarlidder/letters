@@ -1,5 +1,26 @@
-02.10.22
+Send me a message: http://pgp.mit.edu/pks/lookup?op=get&search=0x914461703DA88489
 
+```
+Public Key Server -- Get "0x914461703da88489 "
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: SKS 1.1.6
+Comment: Hostname: pgp.mit.edu
+
+mDMEYgYRXxYJKwYBBAHaRw8BAQdA1Kcjlh+m/tM4JGEcsiVhIVW2dGI0si/kfBhBtD159W60
+GlVwa2FyIExpZGRlciA8dXBrYXJAcG0ubWU+iJQEExYKADwWIQSLzjN9q9+HZ+eY+auRRGFw
+PaiEiQUCYgYRXwIbAwULCQgHAgMiAgEGFQoJCAsCBBYCAwECHgcCF4AACgkQkURhcD2ohIkN
+GwEAwpGY+Dhdc+LE8/9YT/KxfxHDNKFPtuisAqR6lI+5NykBAPqUXiWQVV81wWLnS2fHAtag
+jFmgtQ7SpiizzUwQ+V4IuDgEYgYRXxIKKwYBBAGXVQEFAQEHQH9y79bMVdTeSGVRCYBPZbfU
+s7wR2Tl97AxrwyOhGPpIAwEIB4h4BBgWCgAgFiEEi84zfavfh2fnmPmrkURhcD2ohIkFAmIG
+EV8CGwwACgkQkURhcD2ohInr0QD/Qj8jitZBSH7/ynPyo3o/UEWfW6xNzQ0F4u61h2/be5EA
++wUPAcz1YM+nInjJZVbYAuwjOTtU/+YlVvE3kEnAeWgF
+=p3Iu
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+# Letters to myself ... 
+02.10.22
+```
 -----BEGIN PGP MESSAGE-----
 
 hF4DIuf52wVj+nsSAQdAi/3kjjy9KHzjXuCp4uBfFVC99zMgcW3Njj9pCl31ciQw
@@ -9,4 +30,4 @@ GrzngDlYeE9B0KmK0ylUuhxF/eti3rhFyiRT02vjQdXnNPFtW/SVOqSdCch19JaX
 Wq8XtUW/uDATX5Agz/ID+wGQJy5w4SdC6hBGbMfiyJsFU2DA
 =765T
 -----END PGP MESSAGE-----
-
+```
